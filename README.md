@@ -53,7 +53,7 @@ Issues públicas do GitHub servem para **bugs e propostas de melhoria que possam
 
 A stack e a estrutura definitivas serão estabelecidas no início do projeto. Está sendo considerada uma organização de código com frontend e backend separados dentro do mesmo repositório, mas **essa decisão ainda será validada pela equipe**.
 
-As instruções de instalação, configuração de variáveis de ambiente, migrations, testes e deploy serão adicionadas aqui assim que a base do projeto existir. Não publique credenciais, tokens ou dados pessoais reais no repositório.
+As instruções de instalação, configuração de variáveis de ambiente, migrations, testes e deploy serão adicionadas aqui assim que a base do projeto existir.
 
 ## Como contribuir
 
