@@ -57,16 +57,9 @@ As instruções de instalação, configuração de variáveis de ambiente, migra
 
 ## Como contribuir
 
-Leia a seção [Como contribuir](#como-contribuir) antes de propor mudanças.
+O fluxo previsto é propor mudanças por pull requests, com descrição da alteração e dos testes realizados, para revisão da equipe. As orientações detalhadas serão publicadas quando o processo de colaboração estiver definido.
 
-De forma resumida:
-
-1. Consulte o contexto da tarefa ou discuta a proposta antes de implementá-la.
-2. Trabalhe em uma branch específica e mantenha as alterações pequenas.
-3. Abra um pull request explicando **o que mudou, por quê e como testar**.
-4. Participe do code review, execute os testes relevantes e respeite a validação de QA.
-
-Para problemas de segurança, **não abra issues públicas com detalhes sensíveis**. O canal privado de reporte será definido antes de aceitar contribuições.
+O canal privado para reporte de vulnerabilidades será informado antes de aceitar contribuições externas.
 
 ## Licença
 
