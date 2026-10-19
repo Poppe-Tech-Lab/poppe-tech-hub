@@ -61,10 +61,6 @@ O fluxo previsto é propor mudanças por pull requests, com descrição da alter
 
 O canal privado para reporte de vulnerabilidades será informado antes de aceitar contribuições externas.
 
-## Licença
-
-A **licença do projeto ainda precisa ser escolhida**. O kit de preparação inclui um modelo da licença MIT, ainda não publicado no repositório. Antes de aceitar contribuições, os mantenedores deverão decidir e adicionar uma licença adequada. A licença do Hub não determina a licença dos demais projetos do Poppe Tech Lab.
-
 ---
 
 **Poppe Tech Lab — Da teoria à experiência real.**
