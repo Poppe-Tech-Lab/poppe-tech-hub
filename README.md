@@ -57,9 +57,9 @@ As instruções de instalação, configuração de variáveis de ambiente, migra
 
 ## Como contribuir
 
-O fluxo previsto é propor mudanças por pull requests, com descrição da alteração e dos testes realizados, para revisão da equipe. As orientações detalhadas serão publicadas quando o processo de colaboração estiver definido.
+Nesta fase, as contribuições de código são restritas às pessoas participantes do projeto; pull requests externos não serão aceitos.
 
-O canal privado para reporte de vulnerabilidades será informado antes de aceitar contribuições externas.
+Bugs e sugestões de melhoria podem ser registrados em issues públicas para avaliação da equipe. Relatos de vulnerabilidades ou informações sensíveis não devem ser publicados em issues; o canal privado de reporte será divulgado antes do início das contribuições de código.
 
 ---
 
